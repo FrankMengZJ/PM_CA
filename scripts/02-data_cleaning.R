@@ -54,4 +54,4 @@ cleaned_list <-
 
 cleaned_list <- cleaned_list[-24,]
 #### Save data ####
-write_csv(cleaned_list, "data/analysis_data.csv")
+write_csv(cleaned_list, "data/analysis_data/analysis_data.csv")
